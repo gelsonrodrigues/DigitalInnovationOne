@@ -1,0 +1,14 @@
+part3/Aluno.java
+ part3.Aluno
+part3/ConnectionFactory.java
+ part3.ConnectionFactory
+part2/ConnectionJDBC.java
+ part2.ConnectionJDBC
+part3/AlunoDAO.java
+ part3.AlunoDAO
+part3/Curso.java
+ part3.Curso
+part3/CursoDAO.java
+ part3.CursoDAO
+part3/QueriesExecution.java
+ part3.QueriesExecution
